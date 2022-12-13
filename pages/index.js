@@ -19,8 +19,7 @@ const Home = () => (
     <HomeBanner />
     <CategoryBanner />
     <ProductsBanner />
-    <ExploreBanner />
-    <SocialMedia />
+    
     <Footer />
   </Root>
 );
