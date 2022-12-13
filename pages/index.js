@@ -20,7 +20,7 @@ const Home = () => (
     <CategoryBanner />
     <ProductsBanner />
     
-    <Footer />
+    
   </Root>
 );
 
